@@ -3,7 +3,7 @@
 A stunning, minimal wedding photography portfolio showcasing cinematic love stories.  
 Built with **Next.js**, **Tailwind CSS**, and **Framer Motion** for smooth animations and full SEO.
 
-![Motion Graph Screenshot](https://via.placeholder.com/800x400?text=Motion+Graph+Preview)
+![Motion Graph Live Preview](https://motion-graph.onrender.com)
 
 ## 🎯 Features
 
